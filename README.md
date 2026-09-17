@@ -1,17 +1,17 @@
-# Hi, I'm Mohammed Ubaid Ur Rahman 👋
+# Hi, I'm Mohammed Ubaid Ur Rahman 
 
 Aspiring Data Analyst | Turning raw data into decisions
 
-## 🛠️ Skills
+Skills
 - **SQL** — querying, joins, aggregations
 - **Excel** — data cleaning, pivot tables, formulas
 - **Power BI / Tableau** — dashboards & data visualization
 
-## 📊 Projects
+ Projects
 Currently building my first data analytics project — updates soon.
 
-## 📫 Connect with me
-- LinkedIn: [https://www.linkedin.com/in/mohammed-ur-rahman-4568b0390?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+ Connect with me
+- LinkedIn: [https://www.linkedin.com/in/mohammed-ur-rahman-4568b0390]
 - Email: [ubaidmohammed741@gmail.com]
 
 ---
